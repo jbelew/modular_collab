@@ -5,3 +5,6 @@ Typical modular patch for me, and an example as to how I lay out projects. Reall
 
 ## Noisy 120pbm
 A loop based on some complex, band-pass, hi-hat like, noise sounds. The 303 line starts getting really annoying after a while. More opportunities here since it's just a simple, starting pattern. Needs a better kick for starters. 
+
+## Enjoy Evolution
+A modular remix of Enjoy the Silence, especially leveraging the Rossum Evolution filter (thus the name). Lot's of plugin here since this was a session intended to refine my mixing skills. The first track is a rendered version of the "Music Bus" to simplify collaboration. 
