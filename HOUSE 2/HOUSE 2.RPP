@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.15/OSX64" 1714250786
+<REAPER_PROJECT 0.1 "7.15/OSX64" 1714711740
   <NOTES 0 2
   >
   RIPPLE 0
@@ -18,7 +18,7 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 30.6662496300623 0 0
+  ZOOM 22.57672366791624 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -340,8 +340,8 @@
       LENGTH 0.00001
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEIN 1 0.00001 0 1 0 0 0
+      FADEOUT 1 0.00001 0 1 0 0 0
       MUTE 0 0
       LOCK 2
       SEL 0
@@ -622,6 +622,32 @@
       >
     >
   >
+  <TRACK {798C9910-3E0E-8544-B88F-2347A05A3452}
+    NAME STEVEN
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.29907261314897 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {798C9910-3E0E-8544-B88F-2347A05A3452}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
   <TRACK {593CCE9F-812A-B041-A7FD-E2225087C95A}
     NAME House_-_Bass_idea
     PEAKCOL 16576
@@ -629,14 +655,14 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 0.47829056409258 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -648,7 +674,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 783 300 1314 255
+      WNDRECT 1101 285 1314 255
       SHOW 2
       LASTSEL 1
       DOCKED 0
@@ -661,7 +687,7 @@
       WAK 0 0
       BYPASS 0 0 0
       <JS "Tukan/Lexikan 2 (Tukan)" ""
-        58 55 94 73 100 0 12000 23 1.5 0 67 0 53 27 73 1.8 35 0 0.68 0.33 0.38 0.05 -0.05 -0.38 0.51 0.34 -0.34 -0.51 2 0 0 0 0 0 0 0 0.5 0.5 0.5 0.5 - - - - - - - - - - - - - - - - - - - - - - - -
+        58 55 94 73 100 0 12010.833333 23 1.5 0 67 0 53 27 73 1.8 35 0.083333 0.68 0.330278 0.38 0.05 -0.05 -0.38 0.51 0.34 -0.34 -0.51 2 0 0 0 0 0 0 0 0.5 0.5 0.5 0.5 - - - - - - - - - - - - - - - - - - - - - - - -
       >
       <JS_SER
         AACAPw==
@@ -690,6 +716,246 @@
       GUID {6CE6C65A-49A7-9440-90EC-C0E122EE17B3}
       <SOURCE WAVE
         FILE "Media/House_-_Bass_idea.wav"
+      >
+    >
+  >
+  <TRACK {C713B9F4-5C3B-F24F-B286-41BC304EEB23}
+    NAME "house - bass Clean"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.43161018370141 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C713B9F4-5C3B-F24F-B286-41BC304EEB23}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 13.33333333333333
+      SNAPOFFS 0
+      LENGTH 193.33358276643992
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {B67C4EE4-790B-4945-935A-BDFF21211652}
+      IID 37
+      NAME "house - bass Clean.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {18AA4CE9-94A2-A548-A4B4-90BA59DB2E0C}
+      <SOURCE WAVE
+        FILE "Media/house - bass Clean.wav"
+      >
+    >
+  >
+  <TRACK {4534B773-E5CB-9641-A0E0-91F85E4F4F27}
+    NAME "house - bass Dirty"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.27991910429543 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4534B773-E5CB-9641-A0E0-91F85E4F4F27}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 193.33358276643992
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {87F1479C-E2B5-C14E-8208-EC821AB3E0DA}
+      IID 38
+      NAME "house - bass Dirty.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {65049306-F608-7B45-B3E3-C865FE1AD3E7}
+      <SOURCE WAVE
+        FILE "Media/house - bass Dirty.wav"
+      >
+    >
+  >
+  <TRACK {76116529-FB54-F84A-8700-BF865123FD1A}
+    NAME "house - bounce drums"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {76116529-FB54-F84A-8700-BF865123FD1A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 193.33358276643992
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B6F7BCFD-8858-0C4F-A97B-C2A08B842E95}
+      IID 39
+      NAME "house - bounce drums .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {194B61A8-916A-7341-A5F1-67FE91B99859}
+      <SOURCE WAVE
+        FILE "Media/house - bounce drums .wav"
+      >
+    >
+  >
+  <TRACK {C6EBA6F7-34CB-3E4F-9394-70E1E2FDFF05}
+    NAME "house - dark attack bass sdub"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C6EBA6F7-34CB-3E4F-9394-70E1E2FDFF05}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 193.33358276643992
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DB1EF168-5CA3-2943-9882-49CD46B38B5A}
+      IID 40
+      NAME "house - dark attack bass sdub.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A2DABD6-3D81-9649-93AB-2E4947F99E38}
+      <SOURCE WAVE
+        FILE "Media/house - dark attack bass sdub.wav"
+      >
+    >
+  >
+  <TRACK {F9884439-DE21-594D-A922-BA8DA4727200}
+    NAME "house - ROUGH MIX"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F9884439-DE21-594D-A922-BA8DA4727200}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 26.72582766439909
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9932669F-5360-0148-A72A-5CC7976D77EC}
+      IID 41
+      NAME "house - ROUGH MIX.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {719603B2-A585-044A-8144-9D38EDA0FC03}
+      <SOURCE WAVE
+        FILE "Media/house - ROUGH MIX.wav"
       >
     >
   >
